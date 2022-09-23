@@ -1,0 +1,5 @@
+E:\Tests\WinFormsApp1\Test.Wpf\Test.Wpf\obj\Debug\net6.0-windows\Test.Wpf.csproj.AssemblyReference.cache
+E:\Tests\WinFormsApp1\Test.Wpf\Test.Wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Tests\WinFormsApp1\Test.Wpf\Test.Wpf\obj\Debug\net6.0-windows\App.g.cs
+E:\Tests\WinFormsApp1\Test.Wpf\Test.Wpf\obj\Debug\net6.0-windows\Test.Wpf_MarkupCompile.cache
+E:\Tests\WinFormsApp1\Test.Wpf\Test.Wpf\obj\Debug\net6.0-windows\Test.Wpf_MarkupCompile.lref
